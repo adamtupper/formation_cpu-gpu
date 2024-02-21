@@ -24,6 +24,6 @@ if [ -d "${1}" ]; then
 
 else
 
-echo "The directory $1 is invalid. Please make sure the target directory exists."
+  echo "The directory $1 is invalid. Please make sure the target directory exists."
 
 fi
